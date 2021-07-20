@@ -14,7 +14,7 @@
     "axios": "^0.19.2",
     "moment": "^2.27.0",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-get-location": "^1.4.2",
     "react-native-loading-spinner-overlay": "^1.1.0",
